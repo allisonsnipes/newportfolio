@@ -4,12 +4,11 @@
 }
 
 body {
-  background-image: url("../images/gray.png");
+  background-image: url("../imgs/gray.png");
 }
 
 .navbar {
   background-color:#e3f2fd;
-  padding: 1em;
 }
 
 a {
@@ -27,11 +26,20 @@ a {
 
 img {
   margin-right: 5px !important;
-  width: 100%;
-  float: left;
-  padding: 1em;
+  width: 300px;
+  
+  
+  
 }
 
+.leftcol {
+  padding: 1em;float: left;
+}
+ 
+.rightcol {
+  margin: auto;
+  padding: 2em;
+}
 
 .active {
   background-color: grey;
