@@ -14,8 +14,7 @@ body {
 a {
   color: black;
   text-align: right;
-  margin-left: 0em;
-  margin-right: 100%;
+  margin: auto;
   float: right;
 }
 
